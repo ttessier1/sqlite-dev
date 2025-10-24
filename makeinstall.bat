@@ -1,0 +1,1 @@
+copy /b SelfExtract.exe+signature+sqlite-3.50.4.zip Install.exe
